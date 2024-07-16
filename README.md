@@ -1,2 +1,2 @@
 # Hotel-Management-System
-A basic hotel management system
+A basic hotel management system.
